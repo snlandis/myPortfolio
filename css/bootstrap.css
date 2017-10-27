@@ -1097,7 +1097,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #ececec;
   text-decoration: none;
 }
 a:hover,
@@ -1123,6 +1123,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  margin: 0 auto;
 }
 .img-rounded {
   border-radius: 6px;
@@ -1147,7 +1148,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #000;
 }
 .sr-only {
   position: absolute;
@@ -3121,7 +3122,7 @@ fieldset[disabled] .btn-default.focus {
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #286090;
+  background-color: gray;
   border-color: #122b40;
 }
 .btn-primary:hover {
