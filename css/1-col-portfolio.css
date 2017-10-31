@@ -22,3 +22,6 @@ a {
   max-width: 25%;
   border-radius: 50%;
 }
+#header {
+  text-align: center
+}
