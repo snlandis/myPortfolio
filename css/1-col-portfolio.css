@@ -3,8 +3,8 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-
 body {
+    font-family: 'Nunito', sans-serif;
     background-color: #EAE8ED;
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -18,10 +18,14 @@ a {
 }
 
 #img-header {
-  max-height: 25%;
-  max-width: 25%;
+  max-height: 20%;
+  max-width: 20%;
   border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 #header {
   text-align: center;
 }

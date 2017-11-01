@@ -9,6 +9,7 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+
 body {
   margin: 0;
 }
@@ -54,7 +55,7 @@ abbr[title] {
 }
 b,
 strong {
-  font-weight: bold;
+  font-weight: 800;
 }
 dfn {
   font-style: italic;
@@ -1083,7 +1084,7 @@ html {
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -1265,7 +1266,7 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 40px;
 }
 h2,
 .h2 {
@@ -1288,6 +1289,7 @@ h6,
   font-size: 12px;
 }
 p {
+  text-align: center;
   margin: 0 0 10px;
 }
 .lead {
