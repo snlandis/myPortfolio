@@ -17,11 +17,11 @@ a {
   color: #EAE8ED;
 }
 
-#img {
+#img-header {
   max-height: 25%;
   max-width: 25%;
   border-radius: 50%;
 }
 #header {
-  text-align: center
+  text-align: center;
 }
