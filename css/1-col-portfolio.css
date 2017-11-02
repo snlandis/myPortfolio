@@ -3,6 +3,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
 body {
     font-family: 'Nunito', sans-serif;
     background-color: #EAE8ED;
@@ -28,4 +29,14 @@ a {
 
 #header {
   text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  text-align: left;
+  max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
